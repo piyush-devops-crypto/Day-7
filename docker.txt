@@ -1,6 +1,4 @@
-this is docker file
+ this is docker file
  this is very important file
- i_ need this on daily basis
  i need this on daily basis 
-
 
